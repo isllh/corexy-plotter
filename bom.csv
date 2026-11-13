@@ -1,1 +1,5 @@
-Part,Price
+Quantity,Part,Order Total,Retailer,Link,Notes
+1,12mm 400x340mm Medite Premier MDF,£18.88,cutmy,https://www.cutmy.co.uk/mdf-product/,inc shipping
+1, 4pc 6.2mm 300mm Aluminium Extrusion Black,£12.33,Amazon,https://www.amazon.co.uk/gp/product/B0BYHS2Z2Z/,not inc shipping
+2, Stepper Motor 42-23 1.5A-3.8V,£21,Amazon,https://www.amazon.co.uk/gp/product/B0C36D34F5/,not inc shipping
+1, Open Ended Timing Belt 10mm 4m 5mm pitch,£8.49,Amazon,https://www.amazon.co.uk/sourcing-map-Timing-Length-Synchronous/dp/B0FPLPGTBW/,not inc shipping

@@ -1,4 +1,4 @@
-# corexy-plotter
+# ESP32 CoreXY Pen Plotter
 Fallen
 
 Custom postcards with CoreXY pen plotter, ESP32 based, interactive with iPad interface (hopefully)
